@@ -5,3 +5,6 @@
 *.parquet
 *.log
 **/__pycache__/*
+05_src/data/
+05_src/experiment_tracking/mlruns/
+mlruns/
